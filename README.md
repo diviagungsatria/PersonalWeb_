@@ -39,6 +39,7 @@ Keluar dari sesi login admin.
 
 📷 Screenshot Tampilan
 1. Beranda
+https://github.com/diviagungsatria/PersonalWeb_/blob/f257c29a8f194dd218f39e959ea34e5b99c34395/ss/Beranda.png
 
 2. Galeri Foto
 
