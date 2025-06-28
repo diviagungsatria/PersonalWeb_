@@ -42,25 +42,25 @@ Keluar dari sesi login admin.
 https://github.com/diviagungsatria/PersonalWeb_/blob/f257c29a8f194dd218f39e959ea34e5b99c34395/ss/Beranda.png
 
 2. Galeri Foto
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Galeri.png
 
 3. Tentang Saya
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/About.png
 
 4. Form Login Admin
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Login.png
 
 5. Dashboard Admin
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Dasboard.png
 
 6. Tambah Artikel Baru
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Tambah%20Artikel.png
 
 7. Kelola Halaman About
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Kelola%20About.png
 
 8. Kelola Galeri
-
+https://github.com/diviagungsatria/PersonalWeb_/blob/c2a96c2cc1c8becfcd46a6f175739f95a761a6c1/ss/Tamabah%20Galeri.png
 
 🧰 Teknologi yang Digunakan
 Frontend: HTML5, Tailwind CSS v4.0
@@ -82,7 +82,7 @@ Akses web melalui browser:
 http://localhost/personal_web_divi_d1a240038/
 
 Login admin di:
-http://localhost/personal_web_div_d1a240038i/admin/login.php
+http://localhost/personal_web_div_d1a240038/admin/login.php
 
 📁 Struktur Folder
 pgsql
