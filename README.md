@@ -39,7 +39,7 @@ Keluar dari sesi login admin.
 
 📷 Screenshot Tampilan
 1. Beranda
-
+ss/Beranda.png
 
 2. Galeri Foto
 
